@@ -1,0 +1,35 @@
+.terrone{
+    background-color: lightcyan;
+    text-align: center;
+    color: blue;
+    padding: 12px;
+
+    border-style: solid;
+    border-color: crimson;
+    border-width: 8px;
+    border-radius: 30px;
+}
+
+
+.link-navigazione{
+    color: darkred;
+    padding: 4px;
+    font-weight: bold;
+    font-size: large;
+}
+
+
+.brutto{
+    position: absolute;
+    top: 400px;
+    left: 500px;
+}
+
+
+.pipps{
+    color: red;
+}
+
+.pesk{
+    color: red;
+}

@@ -12,7 +12,7 @@
 
 
 .link-navigazione{
-    color: darkred;
+    color: darkred; 
     padding: 4px;
     font-weight: bold;
     font-size: large;
@@ -33,3 +33,4 @@
 .pesk{
     color: red;
 }
+
